@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/andrewBurrr/andrewBurrr/blob/main/header.png" alt="Andrew Burton README header image">
 
 <!--
 **andrewBurrr/andrewBurrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
