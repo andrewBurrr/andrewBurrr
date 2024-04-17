@@ -22,15 +22,15 @@ class AboutMe:
 
     def get_languages(self):
         languages_str = ", ".join(self.primary_languages)
-        return f"I work mostly with: {languages_str}
+        return f"I work mostly with: {languages_str}"
 
     def get_interests(self):
         interests_str = ", ".join(self.interests)
-        return interests_str
+        return f"My interests include: {interests_str}"
 
     def get_hobbies(self):
         hobbies_str = ", ".join(self.interests)
-        return hobbies_str
+        return f"In my free time, I enjoy: {hobbies_str}"
 
 
 about_me = AboutMe()
