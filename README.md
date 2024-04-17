@@ -6,6 +6,44 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-%23264163.svg?&style=for-the-badge)](https://andrewmburton.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=andrewBurrr&style=for-the-badge)
 
+## Who am I?
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Andrew Burton"
+        self.role = "Computer Scientist"
+        self.primary_languages = ["Python", "Java", "JavaScript", "C/C++"]
+        self.interests = ["Machine Learning", "Web Development", "Problem Solving"]
+        self.hobbies = ["Bouldering", "Running", "Drumming"]
+
+    def get_intro(self):
+        intro = f"👋 Hi there! I'm {self.name}, a {self.role}."
+        return intro
+
+    def get_languages(self):
+        languages_str = ", ".join(self.primary_languages)
+        return f"I work mostly with: {languages_str}
+
+    def get_interests(self):
+        interests_str = ", ".join(self.interests)
+        return interests_str
+
+    def get_hobbies(self):
+        hobbies_str = ", ".join(self.interests)
+        return hobbies_str
+
+
+about_me = AboutMe()
+
+print(about_me.get_intro())
+
+print(about_me.get_languages())
+
+print(about_me.get_interests())
+
+print(about_me.get_hobbies())
+```
+
 <h3 align="left">Skills:</h3>
 <h4 align="left">Programming Languages:</h4>
 
