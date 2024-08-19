@@ -49,24 +49,27 @@ print(about_me.get_hobbies())
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/jee-3.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="c" width="40" height="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cpp" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="cs" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/jee-3.svg" alt="java" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="ts" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/perl-programming-language.svg" alt="perl" width="40" height="40"/>
 </p>
 <h4 align="left">Frontend Development</h4>
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" alt="c" width="40" height="30"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="c" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vue" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="mui" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bs5" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" alt="babel" width="40" height="30"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="webpack" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vite" width="40" height="40"/>
 </p>
 <h4 align="left">Backend Development</h4>
 <p align="left">
@@ -96,12 +99,14 @@ print(about_me.get_hobbies())
 </p>
 <h4 align="left">Data Vizualization</h4>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="plotly" width="40" height="40"/>
 </p>
 <h4 align="left">Devops</h4>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="gitbash" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="netlify" width="40" height="40"/>
 </p>
 <h4 align="left">Backend as a Service</h4>
 <p align="left">
